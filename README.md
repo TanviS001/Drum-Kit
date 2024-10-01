@@ -1,2 +1,2 @@
 # Drum Kit 
-You cna play drums on this website
+You can play drums on this website
